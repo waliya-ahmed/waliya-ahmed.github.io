@@ -1,5 +1,5 @@
 body {
-	background-color: #f1f1f9;
+	background-color: #F7FDFF;
 	margin: 0;
   	padding: 0;
 }
@@ -53,9 +53,9 @@ body {
 
 .content p {
   font-family: "Roboto", serif;
-  font-size: 130%;
+  font-size: 110%;
   text-indent: 50px;
-  
+  color: #1D6D81;
 }
 
 .content li {
@@ -72,7 +72,7 @@ body {
 }
 
 .content a {
-  color: #84A8B1;
+  color: #B8DEEB;
   font-weight: 600;
   text-decoration: none;
 }
@@ -104,7 +104,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #84A8B1;
+  background-color: #B7D3DC;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -112,7 +112,7 @@ div.content {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
   display: block;
   color: #1D6D81;
   padding: 16px;
