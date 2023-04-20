@@ -5,8 +5,8 @@ body {
 }
 
 .sidebar h1 {
-  font-family: "Playfair Display", serif;
-  font-size: 350%;
+  font-family: "Bradley Hand", serif;
+  font-size: 250%;
   color: #00556D;
   display: block;
   padding: 16px;
@@ -14,11 +14,11 @@ body {
   margin:0;
   font-weight: 600;
   text-align: center;
-    font-style:italic;
+    font-style: italic;
 }
 
 .sidebar h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Bradley Hand", serif;
   font-size: 150%;
   color: #1D6D81;
   display: block;
@@ -125,7 +125,7 @@ div.content {
 }
 
 #colophon a {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
   font-size: 100%;
   color: #1D6D81;
   display: block;
@@ -144,12 +144,12 @@ div.content {
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #393751;
+  background-color: #14677D;
   color: #EBFBFF;
 }
 
 #colophon a:hover:not(.active) {
-  background-color: 262536;
+  background-color: #14677D;
   color: #EBFBFF;
 }
 
