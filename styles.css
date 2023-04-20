@@ -45,6 +45,7 @@ body {
 
 .content h1 {
   font-family: "Playfair Display", serif;
+  color: #1D6D81;
 }
 
 .content h2 {
@@ -52,7 +53,7 @@ body {
 }
 
 .content p {
-  font-family: "Roboto", serif;
+  font-family: "Book Antiqua", serif;
   font-size: 110%;
   text-indent: 50px;
   color: #1D6D81;
@@ -97,6 +98,7 @@ div.content {
   padding-left: 25px;
   padding-right: 16px;
   height: 1000px;
+  color: #1D6D81
 }
 
  /* The side navigation menu */
